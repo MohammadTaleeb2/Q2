@@ -5,6 +5,7 @@ public class Book {
     private String author ;
     private int price ;
     private String language ;
+    private  String ko ;
 
     public Book( String name,String author, String language,int price) {
         this.price = price;
